@@ -10,7 +10,7 @@ Highly self-motivated and goal-oriented professional committed to pursuing a lon
 **Majestic Bay, Seattle - Consultant** <br>
 APRIL 2020 - OCTOBER 2020
 
-- Designed and developed dynamic and interactive websites using React, JavaScript, Sass .
+- Designed and developed dynamic and interactive websites using React, JavaScript, Sass.
 - Optimized sites for usability, search engine optimization and accessibility.
 - Performed troubleshooting and white box testing software usability, analyzed results and fixing errors and bugs using Bugzilla.
 
