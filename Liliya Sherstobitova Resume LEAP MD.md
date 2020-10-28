@@ -8,14 +8,14 @@ Highly self-motivated and goal-oriented professional committed to pursuing a lon
 
 ### EXPERIENCE ###
 **Majestic Bay, Seattle - Consultant** <br>
-APRIL 2020 - PRESENT
+APRIL 2020 - OCTOBER 2020
 
 - Designed and developed dynamic and interactive websites using React, JavaScript, Sass .
 - Optimized sites for usability, search engine optimization and accessibility.
 - Performed troubleshooting and white box testing software usability, analyzed results and fixing errors and bugs using Bugzilla.
 
 **uTest (Applaus Inc.) - QA Analyst**  <br>
-MARCH 2019 - PRESENT
+MARCH 2019 - OCTOBER 2020
 
 - Performed black box testing, identified bugs and reported with supporting screenshots, log files, videos and verified them through the internal bug tracking system.
 - Performed the cross browser and cross platform compatibility testing for several web applications.
