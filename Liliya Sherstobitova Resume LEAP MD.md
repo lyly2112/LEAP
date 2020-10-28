@@ -2,9 +2,11 @@
 <p>Seattle, WA<br>
 (206) 231-7036<br>
 lyly2112@gmail.com</p>
+
 ### SUMMARY ###
 Highly self-motivated and goal-oriented professional committed to pursuing a long-term career change in software development. Offers a 10-year track record demonstrating strong analytical and problem-solving skills, computer proficiency and ability to follow through with projects from inception to completion and support. Over a year experience in QA testing of web-based applications using manual procedures and automated tools. Extensive knowledge and experience in all stages of web development life cycle.
-### EXPERIENCE
+
+### EXPERIENCE ###
 **Majestic Bay, Seattle - Consultant** <br>
 APRIL 2020 - PRESENT
 
@@ -36,20 +38,24 @@ JANUARY 2014 - SEPTEMBER 2015
 - Handled escalated cases from customers and ensured the situation is resolved as effectively as possible within reasonable time frames with constant clients’ 100% satisfaction rate.
 - Supported and assisted team members and colleagues in daily tasks.
 
-### EDUCATION
+### EDUCATION ###
 **North Seattle College, Seattle WA** - Some Classes in Computer Science  <br>
 JUNE 2016 - DECEMBER 2017  <br>
 **The Russian Presidential Academy of National Economy, Moscow Russia** - Bachelor in Law  <br>
 SEPTEMBER 2005 - JUNE 2010  <br>
-### PROJECTS
-Portfolio website for a developer (https://liliya-sherstobitova.netlify.app), JULY 2020
-Website for a local startup (https://majesticbay.netlify.app), JUNE 2020
-Website for a photographer (https://nikiforov.netlify.app), APRIL 2020 MAY 2020
-### SKILLS
-TEST APPROACHES: Waterfall, Agile/Scrum, SDLC, STLC, Bug life Cycle  <br>
-TESTING TOOLS: Selenium WebDriver, Manual Testing, Appium (Android & iOS Testing)  <br>
-FRAMEWORKS: Page Object Model, Keyword Driven, Data Driven, Cucumber, TestNG, log4j <br>
-PROGRAMMING: Java, JS, React, Python, HTML, CSS, Sass <br>
-TYPES OF TESTING: Manual Testing, UI Testing, Integration Testing, Regression Testing, Black Box Testing, White Box Testing, Functional Testing, Performance, Smoke, Sanity, API, Unit testing
-### LANGUAGE COMPETENCIES
+
+### PROJECTS ###
+- Portfolio website for a developer ([https://liliya-sherstobitova.netlify.app](https://liliya-sherstobitova.netlify.app)), JULY 2020
+- Website for a local startup ([https://majesticbay.netlify.app](https://majesticbay.netlify.app)), JUNE 2020
+- Website for a photographer ([https://nikiforov.netlify.app](https://nikiforov.netlify.app)), APRIL 2020 MAY 2020
+
+### SKILLS ###
+- TEST APPROACHES: Waterfall, Agile/Scrum, SDLC, STLC, Bug life Cycle  <br>
+- TESTING TOOLS: Selenium WebDriver, Manual Testing, Appium (Android & iOS Testing)  <br>
+- FRAMEWORKS: Page Object Model, Keyword Driven, Data Driven, Cucumber, TestNG, log4j <br>
+- PROGRAMMING: Java, JS, React, Python, HTML, CSS, Sass <br>
+- TYPES OF TESTING: Manual Testing, UI Testing, Integration Testing, Regression Testing, Black Box Testing, White Box Testing, Functional Testing, Performance, Smoke, Sanity, API, Unit testing
+
+### LANGUAGE COMPETENCIES ###
+
 Russian - fluent
