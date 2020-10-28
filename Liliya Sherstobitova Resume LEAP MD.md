@@ -47,7 +47,7 @@ SEPTEMBER 2005 - JUNE 2010  <br>
 ### PROJECTS ###
 - Portfolio website for a developer ([https://liliya-sherstobitova.netlify.app](https://liliya-sherstobitova.netlify.app)), JULY 2020
 - Website for a local startup ([https://majesticbay.netlify.app](https://majesticbay.netlify.app)), JUNE 2020
-- Website for a photographer ([https://nikiforov.netlify.app](https://nikiforov.netlify.app)), APRIL 2020 MAY 2020
+- Website for a photographer ([https://nikiforov.netlify.app](https://nikiforov.netlify.app)), APRIL 2020 - MAY 2020
 
 ### SKILLS ###
 - TEST APPROACHES: Waterfall, Agile/Scrum, SDLC, STLC, Bug life Cycle  <br>
