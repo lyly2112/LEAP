@@ -50,11 +50,9 @@ SEPTEMBER 2005 - JUNE 2010  <br>
 - Website for a photographer ([https://nikiforov.netlify.app](https://nikiforov.netlify.app)), APRIL 2020 - MAY 2020
 
 ### SKILLS ###
-- TEST APPROACHES: Waterfall, Agile/Scrum, SDLC, STLC, Bug life Cycle  <br>
-- TESTING TOOLS: Selenium WebDriver, Manual Testing, Appium (Android & iOS Testing)  <br>
-- FRAMEWORKS: Page Object Model, Keyword Driven, Data Driven, Cucumber, TestNG, log4j <br>
 - PROGRAMMING: Java, JS, React, Python, HTML, CSS, Sass <br>
-- TYPES OF TESTING: Manual Testing, UI Testing, Integration Testing, Regression Testing, Black Box Testing, White Box Testing, Functional Testing, Performance, Smoke, Sanity, API, Unit testing
+- TESTING TOOLS: Selenium WebDriver, Manual Testing, Appium (Android & iOS Testing), Defect Tracking Tools (Jira, Bugzilla)  <br>
+- DATABASE TOOLS: MySQL <br>
 
 ### LANGUAGE COMPETENCIES ###
 
