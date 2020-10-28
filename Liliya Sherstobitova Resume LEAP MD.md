@@ -45,6 +45,7 @@ JUNE 2016 - DECEMBER 2017  <br>
 SEPTEMBER 2005 - JUNE 2010  <br>
 
 ### PROJECTS ###
+**Git** lyly2112 <br>
 - Portfolio website for a developer ([https://liliya-sherstobitova.netlify.app](https://liliya-sherstobitova.netlify.app)), JULY 2020
 - Website for a local startup ([https://majesticbay.netlify.app](https://majesticbay.netlify.app)), JUNE 2020
 - Website for a photographer ([https://nikiforov.netlify.app](https://nikiforov.netlify.app)), APRIL 2020 - MAY 2020
