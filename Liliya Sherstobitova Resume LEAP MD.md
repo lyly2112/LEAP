@@ -10,9 +10,9 @@ Highly self-motivated and goal-oriented professional committed to pursuing a lon
 **Majestic Bay, Seattle - Consultant** <br>
 APRIL 2020 - PRESENT
 
-- Designed and developed dynamic and interactive websites using the latest technologies.
+- Designed and developed dynamic and interactive websites using React, JavaScript, Sass .
 - Optimized sites for usability, search engine optimization and accessibility.
-- Performed troubleshooting and white box testing software usability, analyzed results and fixing errors and bugs.
+- Performed troubleshooting and white box testing software usability, analyzed results and fixing errors and bugs using Bugzilla.
 
 **uTest (Applaus Inc.) - QA Analyst**  <br>
 MARCH 2019 - PRESENT
@@ -50,9 +50,11 @@ SEPTEMBER 2005 - JUNE 2010  <br>
 - Website for a photographer ([https://nikiforov.netlify.app](https://nikiforov.netlify.app)), APRIL 2020 - MAY 2020
 
 ### SKILLS ###
-- PROGRAMMING: Java, JS, React, Python, HTML, CSS, Sass <br>
+- PROGRAMMING LANGUAGES: Java, JS, Python <br>
+- MARKUP LANGUAGES: HTML, Xpath, CSS <br>
 - TESTING TOOLS: Selenium WebDriver, Manual Testing, Appium (Android & iOS Testing), Defect Tracking Tools (Jira, Bugzilla)  <br>
 - DATABASE TOOLS: MySQL <br>
+- OTHER UTILITIES: Eclipse, Microsoft Visual Studio, GIT  <br>
 
 ### LANGUAGE COMPETENCIES ###
 
